@@ -1,7 +1,6 @@
 import React, { useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import { AuthContext } from "../context/authContext";
-import Logo from "../img/logo.png";
 import Modal from "react-modal";
 import Write from "../pages/Write";
 import axios from "axios"; // Import Axios
