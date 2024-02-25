@@ -23,15 +23,20 @@ Start the application: npm start
 # Technologies Used
 
 React : used for developing an interactive, and user-friendly webapp
+
 JavaScript : used to implement the functionalities of the webapp
+
 HTML : used for template design
+
 CSS : used for webapp styling
+
 Bootstrap : used for producing an responsive webapp
 
 
 
 # Contact
 mail : gokulkrishnan3113@gmail.com
+
 linkedin : linkedin.com/in/gokulkrishnan31
 
 
