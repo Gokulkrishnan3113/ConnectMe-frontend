@@ -1,3 +1,9 @@
+# ConnectMe-frontend
+
+# For reference
+
+github repo for backend : https://github.com/Gokulkrishnan3113/ConnectMe-backend.git
+
 # ConnectMe
 
 ConnectMe is a social media application built using ReactJS, Node JS, MySQL designed to connect people from around the world in a seamless and intuitive way.
