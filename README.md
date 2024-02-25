@@ -37,8 +37,9 @@ HTML : used for template design
 
 CSS : used for webapp styling
 
-Bootstrap : used for producing an responsive webapp
+Bootstrap : used for producing a responsive webapp
 
+backend git repo link for reference : https://github.com/Gokulkrishnan3113/ConnectMe-backend.git
 
 
 # Contact
@@ -51,7 +52,7 @@ linkedin : linkedin.com/in/gokulkrishnan31
 ->login page
 <img width="1470" alt="Screenshot 2024-02-25 at 7 18 58 PM" src="https://github.com/Gokulkrishnan3113/ConnectMe-frontend/assets/145863914/18bd27a9-308d-460f-bba0-78e07e08daff">
 
-->signup/regiter page
+->signup/register page
 <img width="1470" alt="Screenshot 2024-02-25 at 7 19 04 PM" src="https://github.com/Gokulkrishnan3113/ConnectMe-frontend/assets/145863914/794d87ff-11dc-44e3-878d-1b8d3b969738">
 
 ->add post page
@@ -60,7 +61,7 @@ linkedin : linkedin.com/in/gokulkrishnan31
 ->profile page
 <img width="1470" alt="Screenshot 2024-02-25 at 7 19 57 PM" src="https://github.com/Gokulkrishnan3113/ConnectMe-frontend/assets/145863914/1167e979-ae4e-4eb9-b256-892e2e31fa98">
 
-->dynamic search
+->dynamic user search
 <img width="1470" alt="Screenshot 2024-02-25 at 7 20 49 PM" src="https://github.com/Gokulkrishnan3113/ConnectMe-frontend/assets/145863914/9381db88-1651-4778-80a8-28b372d9d63d">
 
 ->Home page
