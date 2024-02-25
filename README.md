@@ -5,9 +5,13 @@ ConnectMe is a social media application built using ReactJS, Node JS, MySQL desi
 # Features
 
 User Authentication: Secure user authentication and login system.
+
 Profile : Users can view their profiles and other perople's profiles.
+
 Post Creation: Users can create and share posts publicly.
+
 Search Users: Users can search for other users by their username.
+
 Responsive Design: The application is optimized for various devices, providing a seamless user experience across desktop and mobile platforms.
 
 
@@ -15,8 +19,11 @@ Responsive Design: The application is optimized for various devices, providing a
 # Installation
 
 Clone the repository: git clone https://github.com/Gokulkrishnan3113/ConnectMe-frontend.git
+
 Navigate to the project directory: cd ConnectMe-frontend
+
 Install dependencies: npm install
+
 Start the application: npm start
 
 
